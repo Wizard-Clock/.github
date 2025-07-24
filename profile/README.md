@@ -1,3 +1,5 @@
+![wizarding-clock-high-resolution-logo-transparent](https://github.com/user-attachments/assets/6253fd38-44e1-4243-9b68-d19acd565593)
+
 ## Welcome to the Wizarding Clock Project
 - Developed by Andrew Feely of House Ravenclaw.
 ## Goal
